@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/ICON_SARPAI.png)
+![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/SARPAI-Trial/refs/heads/main/ICON_SARPAI.png)
 
 README for the SARP®AI Trial
 =============================
